@@ -11,5 +11,5 @@
 <a href="https://linkedin.com/in/sujithkumardola" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sujithkumardola" height="30" width="40" /></a>
 <a href="https://fb.com/sujithkumardola" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sujithkumardola" height="30" width="40" /></a>
 <a href="https://instagram.com/sujithkumardola" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sujithkumardola" height="30" width="40" /></a>
-<a href="https://medium.com/sujithkumardola" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sujithkumardola" height="30" width="40" /></a>
+<a href="https://medium.com/@sujithkumardola" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sujithkumardola" height="30" width="40" /></a>
 </p>
